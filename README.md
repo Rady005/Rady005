@@ -1,5 +1,5 @@
 
-![logo](https://imgcdn.stablediffusionweb.com/2024/10/6/fdb52901-3177-4f88-aa73-606a53b41e37.jpg)
+![logo](https://backiee.com/static/wallpapers/1000x563/386741.jpg)
 
 <h1 align="center">Hi 👋, I'm Ren Rady</h1>
 <h3 align="center">I am Junior Mobile App Delveloper.</h3>
