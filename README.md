@@ -1,8 +1,8 @@
 
 ![logo](https://backiee.com/static/wallpapers/1000x563/386741.jpg)
 
-<h1 align="center">Hi 👋, I'm Ren Rady</h1>
-<h3 align="center">I am Junior Mobile App Delveloper.</h3>
+<h1 align="center">Hello 👋, I'm Rady</h1>
+<h3 align="center">I am  a Junior Mobile App Delveloper.</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9523kb1wa2hhgvdxnx0rztbtiwrnxv98pu5y8qs0fi8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rady005&label=Profile%20views&color=0e75b6&style=flat" alt="rady005" /> </p>
